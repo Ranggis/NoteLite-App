@@ -7,7 +7,7 @@
 
 <!-- Modern Tech Logo Showcase -->
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/250/3843FF/notetaking.png" width="140" style="filter: drop-shadow(0 25px 50px rgba(56, 67, 255, 0.4));" />
+  <img src="https://raw.githubusercontent.com/Ranggis/Api-Image/main/notelite.png" width="140" style="filter: drop-shadow(0 25px 50px rgba(56, 67, 255, 0.4));" />
 </p>
 
 <!-- Dynamic Innovation Typing SVG -->
